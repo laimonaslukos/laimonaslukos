@@ -6,7 +6,8 @@
     I am junior JavaScript developer!
   </samp>
 </p>
-
+<br><br>
+<br><br>
 
 
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
