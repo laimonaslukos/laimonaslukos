@@ -1,12 +1,12 @@
 <img align='right' src="https://blog.akrv.xyz/wp-content/uploads/2019/03/javascript-illustration.png" alt="JavaScript" width="60%">
-<br><br>
-<p align="center">
+
+<h2 align="center">
   <samp>
     Hey!! I'm Laimonas Lukoševičius :wave:
     <br><br>
     I am junior JavaScript developer!
   </samp>
-</p>
+</h2>
 <br><br>
 
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
