@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*HySp_1A70YVmA8-6lOzb7g.jpeg" width="50%" align="right">
+  <img src="https://miro.medium.com/max/1400/1*HySp_1A70YVmA8-6lOzb7g.jpeg" width="30%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Laimonas Lukoševičius :wave:
