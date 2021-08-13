@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="40%" align="right">
+  <img src="https://miro.medium.com/max/1400/1*HySp_1A70YVmA8-6lOzb7g.jpeg" width="40%" align="right">
   <br><br>
   <samp>
     Hey!! I'm Laimonas Lukoševičius :wave:
     <br><br>
-    I am developer!
+    I am junior JavaScript developer!
   </samp>
 </p>
 
 <p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i> Let's connect! :incoming_envelope: </i>
 </p>
 
 <p align="center">
