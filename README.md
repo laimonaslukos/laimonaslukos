@@ -1,4 +1,4 @@
-<img align='right' src="https://mpng.subpng.com/20180820/rik/kisspng-website-development-javascript-html5-css3-cascadin-appload-comprehensive-software-and-mobile-app-de-5b7b834dcf68a2.0627599615348211978496.jpg" alt="JavaScript" width="60%">
+<img align='right' src="https://mpng.subpng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg" alt="JavaScript" width="60%">
 
 <h3 align="center">
   <i>Hey! I'm Laimonas Lukoševičius</i>
