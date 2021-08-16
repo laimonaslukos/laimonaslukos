@@ -2,6 +2,7 @@
 
 <h3 align="center">
   <i>Hey! I'm Laimonas Lukoševičius</i>
+  <br>
     <i>I am junior JavaScript developer!</i>
 </h3>
 <br><br>
