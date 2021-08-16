@@ -26,9 +26,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  <p align="center"> 
+  <h3 align="center"> 
   <i> Let's connect!</i>
-</p>
+</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/laimonas-luko%C5%A1evi%C4%8Dius-96716abb/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
