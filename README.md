@@ -1,4 +1,4 @@
-<img align='right' src="https://user-images.githubusercontent.com/79200136/129523808-2900d3b9-2785-422b-bb75-a6af3354af22.png" alt="JavaScript" width="30%">
+<img align='right' src="https://user-images.githubusercontent.com/79200136/129525600-3a79d134-3237-49ab-bf71-c7a6d509e743.png" alt="JavaScript" width="50%">
 
 <h3 align="center">
   <i>Hey! I'm Laimonas Lukoševičius</i>
