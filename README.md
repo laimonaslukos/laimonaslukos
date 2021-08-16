@@ -1,12 +1,4 @@
-<img align='right' src="https://user-images.githubusercontent.com/79200136/129525600-3a79d134-3237-49ab-bf71-c7a6d509e743.png" alt="JavaScript" width="30%">
-
-<h3 align="center">
-  <i>Hey! I'm Laimonas Lukoševičius</i>
-  <p></p>
-    <i>I am junior JavaScript developer!</i>
-</h3>
-<br><br>
-
+<img align='right' src="https://user-images.githubusercontent.com/79200136/129526693-05c10dc7-5c4e-4bdf-a503-15ff60e09631.png" alt="JavaScript" width="30%">
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
