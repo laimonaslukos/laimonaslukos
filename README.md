@@ -2,9 +2,9 @@
 
 <h3 align="center">
   
-    Hey!! I'm Laimonas Lukoševičius
-    <br><br>
-    I am junior JavaScript developer!
+  <i>Hey!! I'm Laimonas Lukoševičius
+   
+    I am junior JavaScript developer!</i>
   
 </h3>
 <br><br>
