@@ -1,4 +1,4 @@
-<img align='right' src="https://mpng.subpng.com/20180920/kl/kisspng-javascript-html5-cascading-style-sheets-css3-5ba40e8038ab77.3391088215374782722321.jpg" alt="JavaScript" width="60%">
+<img align='right' src="![pnghut_web-development-javascript-logo-computer-programming-nodejs-language](https://user-images.githubusercontent.com/79200136/129523808-2900d3b9-2785-422b-bb75-a6af3354af22.png)" alt="JavaScript" width="60%">
 
 <h3 align="center">
   <i>Hey! I'm Laimonas Lukoševičius</i>
