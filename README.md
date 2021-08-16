@@ -1,4 +1,4 @@
-<img align='right' src="https://blog.akrv.xyz/wp-content/uploads/2019/03/javascript-illustration.png" alt="JavaScript" width="60%">
+<img align='right' src="https://mpng.subpng.com/20180820/rik/kisspng-website-development-javascript-html5-css3-cascadin-appload-comprehensive-software-and-mobile-app-de-5b7b834dcf68a2.0627599615348211978496.jpg" alt="JavaScript" width="60%">
 
 <h3 align="center">
   <i>Hey! I'm Laimonas Lukoševičius</i>
