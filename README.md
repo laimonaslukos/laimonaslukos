@@ -1,7 +1,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/79200136/129526693-05c10dc7-5c4e-4bdf-a503-15ff60e09631.png" alt="JavaScript" width="100%">
 <br></br>
 
-<p></p>
+<h3></h3>
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
