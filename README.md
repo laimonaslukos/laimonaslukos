@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <samp>
-    Hey!! I'm Laimonas Lukoševičius :wave:
+    Hey!! I'm Laimonas Lukoševičius
     <br><br>
     I am junior JavaScript developer!
   </samp>
@@ -27,7 +27,7 @@
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   <p align="center"> 
-  <i> Let's connect! :incoming_envelope: </i>
+  <i> Let's connect!</i>
 </p>
 
 <p align="center">
