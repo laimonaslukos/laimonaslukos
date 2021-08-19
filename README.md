@@ -28,6 +28,4 @@
 <a href="mailto:laimonas.lukosevicius@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
   
-<!--https://icons8.com/icons/set/svg-->
-
-⭐️ From [Laimonas](https://github.com/laimonaslukos)
+<h3 align="center">Examples of Work</h3>
