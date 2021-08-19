@@ -1,6 +1,8 @@
-<h3><span>🌐 Looking for a Junior JavaScript, Front-end, Back-end, Full Satck Developer Job!</span></h3>
-<img align='center' src="https://user-images.githubusercontent.com/79200136/129526693-05c10dc7-5c4e-4bdf-a503-15ff60e09631.png" alt="JavaScript" width="100%">
+<h3 align="center"><span>🌐 Looking for a Junior JavaScript, Front-end, Back-end, Full Satck Developer Job!</span></h3>
 
+<h3 align="center"> Hey!</h3>
+<h3 align="center"> I'm Laimonas</h3>
+<h3 align="center"> I'm Junior JavaScript Dveloper</h3>
 
 <h3 align="center"> Skills and Experience</h3>
 
