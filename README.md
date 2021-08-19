@@ -2,7 +2,7 @@
 <h3 align="center"> Hey!</h3>
 <h3 align="center"> I'm Laimonas</h3>
 <h3 align="center"> I'm Junior JavaScript Dveloper</h3>
-
+<br></br>
 <h3 align="center"> Skills and Experience</h3>
 
 - 🌐 &nbsp;
