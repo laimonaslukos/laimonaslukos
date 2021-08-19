@@ -20,14 +20,12 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  <h3 align="center"> 
-  <i> Let's connect!</i>
-</h3>
+  <h3 align="center">Let's connect!</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/laimonas-luko%C5%A1evi%C4%8Dius-96716abb/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:laimonas.lukosevicius@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
 </p>
-  <h3 align="center"><span>🌐 Looking for a Junior JavaScript, Front-end, Back-end, Full Satck Developer Job!</span></h3>
+  <h3 align="center">🌐 Looking for a Junior JavaScript, Front-end, Back-end, Full Satck Developer Job!</h3>
 
-<h3 align="center">Examples of Work</h3>
+
