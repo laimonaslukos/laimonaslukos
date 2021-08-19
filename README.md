@@ -4,7 +4,7 @@
 <h3 align="center"> I'm Junior JavaScript Dveloper</h3>
 <br></br>
 <h3 align="center"> Skills and Experience</h3>
-<p></p>
+<h3></h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
