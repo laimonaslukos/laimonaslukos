@@ -2,7 +2,7 @@
 <img align='center' src="https://user-images.githubusercontent.com/79200136/129526693-05c10dc7-5c4e-4bdf-a503-15ff60e09631.png" alt="JavaScript" width="100%">
 
 
-<h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
+<h3 align="center"> Skills and Experience</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
