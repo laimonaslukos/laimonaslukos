@@ -1,7 +1,7 @@
 
-<h3 align="center"> Hey!</h3>
-<h3 align="center"> I'm Laimonas</h3>
-<h3 align="center"> I'm Junior JavaScript Dveloper</h3>
+<h2 align="center"> Hey!</h2>
+<h2 align="center"> I'm Laimonas</h2>
+<h2 align="center"> I'm Junior JavaScript Dveloper</h2>
 <br></br>
 <h3 align="center"> Skills and Experience</h3>
 <h3></h3>
