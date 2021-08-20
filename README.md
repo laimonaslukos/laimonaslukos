@@ -1,11 +1,8 @@
 
-<p align="center">
-  <samp><h3>  Hey!! I'm Laimonas</h3>
-   
-    <br><br>
-    I'm JavaScript Dveloper!
-  </samp>
-</p>
+<h3 align="center">
+  <samp>Hey! I'm Laimonas
+    I'm JavaScript Dveloper!</samp>
+</h3>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
   
