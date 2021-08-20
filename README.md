@@ -13,29 +13,30 @@
 
 <p>* Frontend Development:</p>
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
  <p>* Backend Development:</p>
  
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
 <p>* Database:</p>
 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 <p>* Backend as a Service(BaaS):</p>
   
-   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
-    ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
+![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
     
 <p>* Software:</p>
 
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
 <p>* Other:</p>
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
