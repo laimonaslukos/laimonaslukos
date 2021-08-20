@@ -37,4 +37,4 @@
 
 
 
-<h4>My projects: </h4>
+<h4>My pinned projects: </h4>
