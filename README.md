@@ -1,7 +1,7 @@
 
 <p align="center">
-  <samp>
-    Hey!! I'm Laimonas
+  <samp><h3>  Hey!! I'm Laimonas</h3>
+   
     <br><br>
     I'm JavaScript Dveloper!
   </samp>
