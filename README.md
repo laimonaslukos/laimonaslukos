@@ -27,7 +27,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
  
 
-<p align="center"> 
+<p align="right"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
