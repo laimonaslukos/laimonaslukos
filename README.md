@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hey!</h2>
 <h2 align="center"> I'm Laimonas</h2>
-<h2 align="center"> I'm Junior JavaScript Dveloper</h2>
+<h2 align="center"> I'm JavaScript Dveloper</h2>
 <br></br>
 
 
