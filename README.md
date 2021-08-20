@@ -3,7 +3,8 @@
   <samp>Hey! I'm Laimonas
     I'm JavaScript Dveloper!</samp>
 </h3>
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<br></br>
+<h3><samp> 🛠 &nbsp;Tech Stack</samp></h3>
 
   
 - 🌐 &nbsp;
