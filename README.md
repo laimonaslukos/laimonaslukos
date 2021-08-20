@@ -4,7 +4,7 @@
     I'm JavaScript Dveloper!</samp>
 </h2>
   <h4 align="center"><samp>🌐 Looking for a Junior JavaScript, Front-end, Back-end, Full Satck Developer Job!</samp></h4>
-<br></br>
+
 <h3><samp> 🛠 &nbsp; Skills</samp></h3>
 
 <p>* Programming Languages:</p>
