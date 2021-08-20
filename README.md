@@ -1,6 +1,6 @@
 
 <h2 align="center">
-  <samp>Hey! I'm Laimonas
+  <samp>Hey! I'm Laimonas.
     I'm JavaScript Dveloper!</samp>
 </h2>
 <br></br>
