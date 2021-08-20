@@ -28,7 +28,7 @@
  
 
 <p align="right"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
+  <i align="right"> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
 <p align="center">
