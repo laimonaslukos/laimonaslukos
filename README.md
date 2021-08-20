@@ -7,35 +7,35 @@
 <br></br>
 <h3><samp> 🛠 &nbsp; Skills</samp></h3>
 
-<p>Programming Languages</p>
+<p>*Programming Languages:</p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<p>Frontend Development</p>
+<p>*Frontend Development:</p>
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   
- <p>Backend Development</p>
+ <p>*Backend Development:</p>
  
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
-<p>Database</p>
+<p>*Database:</p>
 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
-<p>Backend as a Service(BaaS)</p>
+<p>*Backend as a Service(BaaS):</p>
   
    ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
     ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
     
-<p>Software</p>
+<p>*Software:</p>
 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-<p>Other</p>
+<p>*Other:</p>
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -44,7 +44,6 @@
 <p align="center"> 
   <samp>Let's connect and chat! :incoming_envelope: </samp>
 </p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/laimonas-luko%C5%A1evi%C4%8Dius-96716abb/"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" alt="LinkedIn"></a> &nbsp; &nbsp;
 <a href="mailto:laimonas.lukosevicius@gmail.com"><img src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-gmail-48.png" alt="Gmail"></a> &nbsp; &nbsp;
