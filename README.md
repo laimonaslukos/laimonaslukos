@@ -3,7 +3,7 @@
   <samp>Hey! I'm Laimonas.
     I'm JavaScript Dveloper!</samp>
 </h2>
-  <h4 align="center"><samp>🌐 Looking for a Junior JavaScript, Front-end, Back-end, Full Satck Developer Job!</samp></h4>
+  <h4 align="center"><samp>🌐 Looking for a JavaScript, Front-end, Back-end, Full Satck Developer Job!</samp></h4>
 
 <h3><samp> 🛠 &nbsp; Skills</samp></h3>
 
