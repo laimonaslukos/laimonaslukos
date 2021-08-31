@@ -5,7 +5,7 @@
 </h2>
   <h4 align="center"><samp>🌐 Looking for a JavaScript, Front-end, Back-end, Full Satck Developer Job!</samp></h4>
   
-  <img align="right" width=500 heigth=500
+  <img align="right" width=500 height=500
    src="https://user-images.githubusercontent.com/79200136/131490728-799a84b0-7ec2-47ef-bf0c-ce46f725de1d.jpg">
  
 <h3><samp> 🛠 &nbsp; Skills</samp></h3>
