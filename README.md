@@ -3,6 +3,7 @@
   <samp>Hey! I'm Laimonas.
     I'm JavaScript Dveloper!</samp>
 </h2>
+![markus-spiske-MgtHZ4zlC1U-unsplash](https://user-images.githubusercontent.com/79200136/131490728-799a84b0-7ec2-47ef-bf0c-ce46f725de1d.jpg)
   <h4 align="center"><samp>🌐 Looking for a JavaScript, Front-end, Back-end, Full Satck Developer Job!</samp></h4>
 
 <h3><samp> 🛠 &nbsp; Skills</samp></h3>
