@@ -3,7 +3,7 @@
   <samp>Hey! I'm Laimonas.
     I'm Front End Web Developer!</samp>
 </h2>
-  <h4 align="center"><samp>🌐 Looking for a JavaScript, Front-end, Back-end, Full Satck Developer Job!</samp></h4>
+  <h4 align="center"><samp>🌐 Looking for a Front End Web Developer Job!</samp></h4>
   <br>
   
   <img align="right" width=400 height=400
