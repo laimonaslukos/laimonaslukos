@@ -28,11 +28,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
-<p>* Database and Backend as a Service(BaaS):</p>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)
     
 <p>* Software:</p>
 
